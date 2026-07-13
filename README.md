@@ -67,4 +67,4 @@ Projects are currently being developed and will be added here soon:
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/anusha-r-462562203)
-- Email: [anusha.r1901@gmail.com](mailto:anusha.r1901@gmail.com)
+- Email: [anusha.r1901@gmail.com](mailto:anusha.r1018@gmail.com)
