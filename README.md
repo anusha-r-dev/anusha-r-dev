@@ -1,6 +1,6 @@
 # Hi, I'm Anusha R 👋
 
-Software Developer with 3+ years of experience building accessible, reliable,
+Software Developer with 4 years of experience building accessible, reliable,
 and maintainable web applications and services.
 
 I specialize in React, JavaScript, TypeScript, Ruby on Rails, REST APIs,
