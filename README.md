@@ -56,9 +56,11 @@ debugging, dependency modernization, and service reliability.
 
 ## 📌 Featured Projects
 
--**[ramwell-store](https://github.com/anusha-r-dev/ramwell-store)**:performance-focused e-commerce catalog with custom row virtualization.
--**[accessible-clinical-dashboard](https://github.com/anusha-r-dev/accessible-clinical-dashboard)**:The application demonstrates how laboratory data can be presented with clear status indicators, preserved numeric precision, keyboard-friendly controls, and responsive layouts.
--**[careerpilot-platform](https://github.com/anusha-r-dev/careerpilot-platform)**:full-stack job application platform (React, Rails 8, PostgreSQL)
+- **[Ramwell Store](https://github.com/anusha-r-dev/ramwell-store)**:performance-focused e-commerce catalog with custom row virtualization.
+
+- **[Accessible Clinical Dashboard](https://github.com/anusha-r-dev/accessible-clinical-dashboard)**:The application demonstrates how laboratory data can be presented with clear status indicators, preserved numeric precision, keyboard-friendly controls, and responsive layouts.
+
+- **[Careerpilot Platform](https://github.com/anusha-r-dev/careerpilot-platform)**:full-stack job application platform (React, Rails 8, PostgreSQL)
 
 ## 🏆 Recognition
 
